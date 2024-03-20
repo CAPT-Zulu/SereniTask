@@ -3,5 +3,6 @@ Collaborators:
 Luca King -   
 Scott May -   
 Caleb Worth -   
-Ronan Kennedy -    
-Elliot Waigh - 
+Ronan Kennedy -   
+Elliot Waigh -    
+Ezekiel Smith -   
